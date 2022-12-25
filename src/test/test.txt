@@ -1,0 +1,15 @@
+add
+name
+1
+1
+1
+partNumber
+1
+PCS
+ORGNAME
+FULLNAME
+TRUST
+ZIP
+1
+1
+1
